@@ -2,6 +2,12 @@
 
 This Power BI project analyzes customer churn behavior using a telecom dataset. The dashboard provides deep insights into churn patterns based on various customer attributes such as contract type, payment method, internet service, and monthly charges.
 
+Dashboard:
+![Screenshot 2025-05-28 233402](https://github.com/user-attachments/assets/d288a1af-238b-4dc8-824a-2d16cb612943)
+
+
+
+
 ## 🔍 Project Overview
 
 *Objective:*  
